@@ -40,8 +40,6 @@
     </div>
 </form>
 
-
-<!-- Aquí tu tabla de artículos -->
 <table class="table table-bordered table-striped">
     <thead>
         <tr>
@@ -50,7 +48,7 @@
             <th>Categoría</th>
             <th>Condición</th>
             <th>Precio</th>
-            <th>Acciones</th> <!-- Nueva columna -->
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
